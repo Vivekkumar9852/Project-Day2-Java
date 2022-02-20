@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\FEB 13 Chohot\Project Day2 Java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1747431056.index
+2789516901.index
